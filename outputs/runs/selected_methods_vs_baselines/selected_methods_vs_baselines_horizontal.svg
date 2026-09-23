@@ -16,7 +16,7 @@
 <text x="216" y="121" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Checkerboard ckpt 20</text>
 <rect x="230" y="104" width="890.9" height="24" fill="#e15759" rx="2"/>
 <text x="1128.9" y="121" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">0.79</text>
-<text x="216" y="157" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random zero</text>
+<text x="216" y="157" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random heuristic</text>
 <rect x="230" y="140" width="890.9" height="24" fill="#4e79a7" rx="2"/>
 <text x="1128.9" y="157" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">0.79</text>
 <text x="216" y="193" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Greedy</text>
@@ -42,7 +42,7 @@
 <text x="216" y="341" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Checkerboard ckpt 20</text>
 <rect x="230" y="324" width="887.0" height="24" fill="#e15759" rx="2"/>
 <text x="1125.0" y="341" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">417</text>
-<text x="216" y="377" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random zero</text>
+<text x="216" y="377" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random heuristic</text>
 <rect x="230" y="360" width="825.5" height="24" fill="#4e79a7" rx="2"/>
 <text x="1063.5" y="377" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">388</text>
 <text x="216" y="413" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Greedy</text>
@@ -67,7 +67,7 @@
 <text x="216" y="561" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Checkerboard ckpt 20</text>
 <rect x="230" y="544" width="234.1" height="24" fill="#e15759" rx="2"/>
 <text x="472.1" y="561" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">18209</text>
-<text x="216" y="597" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random zero</text>
+<text x="216" y="597" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random heuristic</text>
 <rect x="230" y="580" width="234.6" height="24" fill="#4e79a7" rx="2"/>
 <text x="472.6" y="597" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">18249</text>
 <text x="216" y="633" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Greedy</text>
@@ -93,7 +93,7 @@
 <text x="216" y="781" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Checkerboard ckpt 20</text>
 <rect x="230" y="764" width="890.9" height="24" fill="#e15759" rx="2"/>
 <text x="1128.9" y="781" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">1.16</text>
-<text x="216" y="817" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random zero</text>
+<text x="216" y="817" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Random heuristic</text>
 <rect x="230" y="800" width="875.1" height="24" fill="#4e79a7" rx="2"/>
 <text x="1113.1" y="817" text-anchor="start" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#222">1.14</text>
 <text x="216" y="853" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#333">Greedy</text>
