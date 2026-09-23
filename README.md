@@ -1,6 +1,10 @@
-# Traffic ADP SUMO Final
+# Incident Traffic Recovery with Multi-Agent ADP
 
-Final 3-lane SUMO incident-recovery controller with neighbor-aware Decision Order ADP.
+A multi-agent traffic-signal controller for recovering from incident-induced gridlock in SUMO. The system combines approximate dynamic programming, spatial incident features, and ordered neighbor-aware decisions across intersections.
+
+This five-person NTHU artificial-intelligence course project compares the proposed controller with greedy, max-pressure, and fixed-time baselines. The repository retains the complete experiment history from the [original team repository](https://github.com/VenceChing/ADP-incident-traffic-recovery-sumo).
+
+Project proposal: [docs/proposal.pdf](docs/proposal.pdf)
 
 ## Selected Methods
 
